@@ -94,10 +94,15 @@ You can easily modify the display or extend the project:
 
 vga_hello_world/
 ├── vga_controller.v # VGA timing and sync generator
+
 ├── text_renderer.v # Character scaling and rendering
+
 ├── char_bitmap.v # Character ROM for letter bitmaps
+
 ├── top_module.v # Top-level instantiation
+
 ├── constraints.xdc # Pin constraints for Basys 3
+
 └── README.md # Project documentation
 
 
@@ -111,14 +116,6 @@ vga_hello_world/
 ## 📄 License
 
 This project is licensed under the **MIT License**.  
-You can change the license in the repository by:
-
-1. Going to your GitHub repo → `Add File` → `Create new file`
-2. Name it `LICENSE`
-3. Paste your desired license text (e.g., MIT, GPL, Apache)
-4. Commit changes
-
-Or go to **Settings > Code and automation > Licenses** (GitHub UI might vary).
 
 ---
 
