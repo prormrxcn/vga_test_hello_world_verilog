@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:34:34 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Fri May 30 13:15:11 2025
+# Process ID         : 34446
+# Current directory  : /home/prormrxcn/project_10/project_10.runs/synth_1
+# Command line       : vivado -log vga_controller.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source vga_controller.tcl
+# Log file           : /home/prormrxcn/project_10/project_10.runs/synth_1/vga_controller.vds
+# Journal file       : /home/prormrxcn/project_10/project_10.runs/synth_1/vivado.jou
+# Running On         : prormrxcn-Inspiron-3501
+# Platform           : Ubuntu
+# Operating System   : Ubuntu 24.04.2 LTS
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+# CPU Frequency      : 3066.039 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 16479 MB
+# Swap memory        : 4294 MB
+# Total Virtual      : 20774 MB
+# Available Virtual  : 13025 MB
+#-----------------------------------------------------------
+source vga_controller.tcl -notrace
