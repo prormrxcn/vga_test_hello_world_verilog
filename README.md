@@ -93,6 +93,7 @@ You can easily modify the display or extend the project:
 ## 📂 File Structure
 
 vga_hello_world/
+
 ├── vga_controller.v # VGA timing and sync generator
 
 ├── text_renderer.v # Character scaling and rendering
