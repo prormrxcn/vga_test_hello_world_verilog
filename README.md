@@ -104,7 +104,7 @@ vga_hello_world/
 ---
 
 ## 📸 Preview (Optional - add screenshot)
-![HELLO WORLD on screen](screenshot.png)
+![WhatsApp Image 2025-07-10 at 23 08 11](https://github.com/user-attachments/assets/df2d7d28-2d31-4b72-952e-ae14173bd270)
 
 ---
 
